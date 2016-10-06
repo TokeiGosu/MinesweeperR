@@ -1,5 +1,5 @@
 # MinesweeperR
-Minesweeper game in R and RShiny
+Minesweeper game in R and (maybe) RShiny
 
 
-Work in progress
+Work currently in progress
